@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "GameServer\GameServer.csproj", "{AC2451A6-54D6-4F2B-B5F9-037054D6A634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AphilyServer", "AphilyServer\AphilyServer.csproj", "{BBF66F5B-0070-4198-BB30-01E176C368ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{790AFE05-6B13-487C-B532-8FABC6DAD6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2451A6-54D6-4F2B-B5F9-037054D6A634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2451A6-54D6-4F2B-B5F9-037054D6A634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2451A6-54D6-4F2B-B5F9-037054D6A634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2451A6-54D6-4F2B-B5F9-037054D6A634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF66F5B-0070-4198-BB30-01E176C368ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF66F5B-0070-4198-BB30-01E176C368ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF66F5B-0070-4198-BB30-01E176C368ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF66F5B-0070-4198-BB30-01E176C368ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790AFE05-6B13-487C-B532-8FABC6DAD6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790AFE05-6B13-487C-B532-8FABC6DAD6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790AFE05-6B13-487C-B532-8FABC6DAD6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790AFE05-6B13-487C-B532-8FABC6DAD6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2779E0B0-7807-4590-BBCD-D936DAC82CFF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\GameServer\AphilyServer\bin\Debug\AphilyServer.dll
+C:\Users\Administrator\source\repos\GameServer\AphilyServer\bin\Debug\AphilyServer.pdb
+C:\Users\Administrator\source\repos\GameServer\AphilyServer\obj\Debug\AhpilyServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GameServer\AphilyServer\obj\Debug\AphilyServer.dll
+C:\Users\Administrator\source\repos\GameServer\AphilyServer\obj\Debug\AphilyServer.pdb

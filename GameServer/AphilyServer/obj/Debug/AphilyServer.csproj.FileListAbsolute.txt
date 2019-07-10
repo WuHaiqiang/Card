@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\bin\Debug\AphilyServer.dll
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\bin\Debug\AphilyServer.pdb
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\obj\Debug\AphilyServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\obj\Debug\AphilyServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\obj\Debug\AphilyServer.dll
+C:\Users\Administrator\Desktop\GameServer\AphilyServer\obj\Debug\AphilyServer.pdb
+D:\Test\GameServer\AphilyServer\bin\Debug\AphilyServer.dll
+D:\Test\GameServer\AphilyServer\bin\Debug\AphilyServer.pdb
+D:\Test\GameServer\AphilyServer\obj\Debug\AphilyServer.csproj.CoreCompileInputs.cache
+D:\Test\GameServer\AphilyServer\obj\Debug\AphilyServer.dll
+D:\Test\GameServer\AphilyServer\obj\Debug\AphilyServer.pdb
+D:\Test\GameServer\AphilyServer\obj\Debug\AphilyServer.csprojAssemblyReference.cache
